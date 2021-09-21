@@ -22,5 +22,20 @@ namespace WindowsFormsApp1
             Form1 seg = new Form1();
             seg.ShowDialog();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Crear_Cuenta_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
