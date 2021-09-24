@@ -20,3 +20,14 @@ C:\Users\elian\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsA
 C:\Users\elian\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\elian\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\elian\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Patricia\Desktop\carlos\Proyecto-Trimestral-\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Patricia\Desktop\carlos\Proyecto-Trimestral-\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Patricia\Desktop\carlos\Proyecto-Trimestral-\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Patricia\Desktop\carlos\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Patricia\Desktop\carlos\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Crear_Cuenta.resources
+C:\Users\Patricia\Desktop\carlos\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Patricia\Desktop\carlos\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Patricia\Desktop\carlos\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Patricia\Desktop\carlos\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Patricia\Desktop\carlos\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Patricia\Desktop\carlos\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

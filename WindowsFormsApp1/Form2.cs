@@ -60,5 +60,30 @@ namespace WindowsFormsApp1
             opcion.Text = "";
            
         }
+
+        private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Crear_Cuenta_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
