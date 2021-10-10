@@ -19,7 +19,9 @@ namespace WindowsFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            string[] correos = new string[10];
+            string[] contraseñas = new string[10];
+            correos[0] = correo;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -66,6 +68,12 @@ namespace WindowsFormsApp1
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            ingresoEstudiantes seg = new ingresoEstudiantes();
+            seg.ShowDialog();
         }
     }
 }

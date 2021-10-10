@@ -31,3 +31,27 @@ C:\Users\Patricia\Desktop\carlos\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug
 C:\Users\Patricia\Desktop\carlos\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\Patricia\Desktop\carlos\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Patricia\Desktop\carlos\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Carlos Nuñez\Proyecto-Trimestral-\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Carlos Nuñez\Proyecto-Trimestral-\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Carlos Nuñez\Proyecto-Trimestral-\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Carlos Nuñez\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Carlos Nuñez\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Crear_Cuenta.resources
+E:\Carlos Nuñez\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Carlos Nuñez\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Carlos Nuñez\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Carlos Nuñez\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Carlos Nuñez\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Carlos Nuñez\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Proyecto-Trimestral-\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Proyecto-Trimestral-\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Proyecto-Trimestral-\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrearAnecdotario.resources
+E:\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Crear_Cuenta.resources
+E:\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ingresoEstudiantes.resources
+E:\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Proyecto-Trimestral-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

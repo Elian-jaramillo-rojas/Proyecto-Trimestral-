@@ -85,5 +85,10 @@ namespace WindowsFormsApp1
         {
 
         }
+
+        private void correo_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
