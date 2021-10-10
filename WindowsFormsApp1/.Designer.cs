@@ -42,11 +42,11 @@ namespace WindowsFormsApp1
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -58,11 +58,11 @@ namespace WindowsFormsApp1
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(1)))), ((int)(((byte)(63)))));
-            this.label1.Font = new System.Drawing.Font("Calisto MT", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(190, 161);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(107, 24);
+            this.label1.Size = new System.Drawing.Size(104, 25);
             this.label1.TabIndex = 0;
             this.label1.Text = "NOMBRE";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -71,7 +71,7 @@ namespace WindowsFormsApp1
             // 
             this.nombre.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(1)))), ((int)(((byte)(63)))));
             this.nombre.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.nombre.Font = new System.Drawing.Font("Calisto MT", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.nombre.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.nombre.ForeColor = System.Drawing.Color.White;
             this.nombre.Location = new System.Drawing.Point(146, 200);
             this.nombre.Name = "nombre";
@@ -82,7 +82,7 @@ namespace WindowsFormsApp1
             // opcion
             // 
             this.opcion.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(1)))), ((int)(((byte)(63)))));
-            this.opcion.Font = new System.Drawing.Font("Calisto MT", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.opcion.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.opcion.ForeColor = System.Drawing.Color.White;
             this.opcion.FormattingEnabled = true;
             this.opcion.Items.AddRange(new object[] {
@@ -91,7 +91,7 @@ namespace WindowsFormsApp1
             "Acudiente"});
             this.opcion.Location = new System.Drawing.Point(71, 627);
             this.opcion.Name = "opcion";
-            this.opcion.Size = new System.Drawing.Size(355, 32);
+            this.opcion.Size = new System.Drawing.Size(355, 33);
             this.opcion.TabIndex = 3;
             this.opcion.Text = "ROL";
             // 
@@ -99,7 +99,7 @@ namespace WindowsFormsApp1
             // 
             this.apellidos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(1)))), ((int)(((byte)(63)))));
             this.apellidos.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.apellidos.Font = new System.Drawing.Font("Calisto MT", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.apellidos.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.apellidos.ForeColor = System.Drawing.Color.White;
             this.apellidos.Location = new System.Drawing.Point(146, 307);
             this.apellidos.Name = "apellidos";
@@ -110,18 +110,19 @@ namespace WindowsFormsApp1
             // 
             this.correo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(1)))), ((int)(((byte)(63)))));
             this.correo.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.correo.Font = new System.Drawing.Font("Calisto MT", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.correo.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.correo.ForeColor = System.Drawing.Color.White;
             this.correo.Location = new System.Drawing.Point(71, 411);
             this.correo.Name = "correo";
             this.correo.Size = new System.Drawing.Size(355, 22);
             this.correo.TabIndex = 8;
+            this.correo.TextChanged += new System.EventHandler(this.correo_TextChanged);
             // 
             // contraseña
             // 
             this.contraseña.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(1)))), ((int)(((byte)(63)))));
             this.contraseña.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.contraseña.Font = new System.Drawing.Font("Calisto MT", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.contraseña.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.contraseña.ForeColor = System.Drawing.Color.White;
             this.contraseña.Location = new System.Drawing.Point(70, 513);
             this.contraseña.Name = "contraseña";
@@ -131,7 +132,7 @@ namespace WindowsFormsApp1
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.Aqua;
-            this.button1.Font = new System.Drawing.Font("Calisto MT", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Location = new System.Drawing.Point(71, 695);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(91, 32);
@@ -143,7 +144,7 @@ namespace WindowsFormsApp1
             // guardar
             // 
             this.guardar.BackColor = System.Drawing.Color.Aqua;
-            this.guardar.Font = new System.Drawing.Font("Calisto MT", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guardar.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guardar.Location = new System.Drawing.Point(334, 695);
             this.guardar.Name = "guardar";
             this.guardar.Size = new System.Drawing.Size(91, 32);
@@ -156,21 +157,21 @@ namespace WindowsFormsApp1
             // 
             this.fecha.CalendarMonthBackground = System.Drawing.Color.White;
             this.fecha.CalendarTitleForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.fecha.Font = new System.Drawing.Font("Calisto MT", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.fecha.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.fecha.Location = new System.Drawing.Point(70, 562);
             this.fecha.Name = "fecha";
-            this.fecha.Size = new System.Drawing.Size(355, 32);
+            this.fecha.Size = new System.Drawing.Size(355, 31);
             this.fecha.TabIndex = 26;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(1)))), ((int)(((byte)(63)))));
-            this.label5.Font = new System.Drawing.Font("Calisto MT", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.White;
             this.label5.Location = new System.Drawing.Point(190, 258);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(123, 24);
+            this.label5.Size = new System.Drawing.Size(114, 25);
             this.label5.TabIndex = 27;
             this.label5.Text = "APELLIDO";
             // 
@@ -178,11 +179,11 @@ namespace WindowsFormsApp1
             // 
             this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(1)))), ((int)(((byte)(63)))));
-            this.label4.Font = new System.Drawing.Font("Calisto MT", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.White;
             this.label4.Location = new System.Drawing.Point(115, 367);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(268, 24);
+            this.label4.Size = new System.Drawing.Size(259, 25);
             this.label4.TabIndex = 28;
             this.label4.Text = "CORREO ELECTRONICO";
             // 
@@ -190,23 +191,13 @@ namespace WindowsFormsApp1
             // 
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(1)))), ((int)(((byte)(63)))));
-            this.label2.Font = new System.Drawing.Font("Calisto MT", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(162, 466);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(163, 24);
+            this.label2.Size = new System.Drawing.Size(157, 25);
             this.label2.TabIndex = 29;
             this.label2.Text = "CONTRASEÑA";
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::WindowsFormsApp1.Properties.Resources.logo;
-            this.pictureBox1.Location = new System.Drawing.Point(178, 24);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(131, 103);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 30;
-            this.pictureBox1.TabStop = false;
             // 
             // panel1
             // 
@@ -240,6 +231,16 @@ namespace WindowsFormsApp1
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(355, 1);
             this.panel4.TabIndex = 34;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::WindowsFormsApp1.Properties.Resources.logo;
+            this.pictureBox1.Location = new System.Drawing.Point(178, 24);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(131, 103);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 30;
+            this.pictureBox1.TabStop = false;
             // 
             // Crear_Cuenta
             // 
